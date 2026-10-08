@@ -1,0 +1,6 @@
+{
+  "name": "Easy Move",
+  "description": "All-in-one transport & logistics platform with 12% fair surcharge engine, rides, cargo, food delivery, and gemini-nano-banana-2.1 AI image studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
